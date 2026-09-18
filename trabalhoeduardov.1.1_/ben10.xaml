@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="trabalhoeduardov._1._1_.ben10"
+             Title="ben10">
+    <VerticalStackLayout>
+        <ScrollView>
+            <VerticalStackLayout
+            Spacing="20"
+            Padding="20">
+
+               
+                <Label
+                Text="BEN 10"
+                FontSize="40"
+                FontAttributes="Bold"
+                TextColor="#39FF14"
+                HorizontalOptions="Center"/>
+
+                <Label
+                Text="O herói que pode se transformar em vários alienígenas!"
+                FontSize="18"
+                HorizontalTextAlignment="Center"
+                TextColor="#444444"/>
+
+
+                
+                <Border
+                BackgroundColor="#111111"
+                Stroke="#39FF14"
+                StrokeThickness="2"
+                Padding="20">
+
+                    <VerticalStackLayout
+                    Spacing="10">
+
+                        <Label
+                        Text="👽 BENJAMIN TENNYSON"
+                        FontSize="24"
+                        FontAttributes="Bold"
+                        TextColor="White"
+                        HorizontalOptions="Center"/>
+
+                        <Label
+                        Text="O Omnitrix"
+                        FontSize="20"
+                        FontAttributes="Bold"
+                        TextColor="#39FF14"
+                        HorizontalOptions="Center"/>
+
+                        <Label
+                        Text="Um dispositivo alienígena que permite ao Ben assumir diferentes formas extraterrestres."
+                        FontSize="16"
+                        TextColor="White"
+                        HorizontalTextAlignment="Center"/>
+
+                    </VerticalStackLayout>
+
+                </Border>
+
+
+                
+                <Label
+                Text="📖 Biografia"
+                FontSize="28"
+                FontAttributes="Bold"
+                TextColor="#111111"/>
+
+                <Label
+                Text="Ben Tennyson é um garoto que encontra o Omnitrix durante uma viagem de férias com sua prima Gwen e seu avô Max. O dispositivo se prende ao seu pulso e permite que ele se transforme em diferentes espécies alienígenas."
+                FontSize="17"
+                TextColor="#444444"
+                LineBreakMode="WordWrap"/>
+
+                <Label
+                Text="A partir daí, Ben passa a viver diversas aventuras, enfrentando vilões e usando os poderes dos alienígenas do Omnitrix para proteger outras pessoas. Durante suas aventuras, ele aprende mais sobre responsabilidade, coragem e como usar seus poderes."
+                FontSize="17"
+                TextColor="#444444"
+                LineBreakMode="WordWrap"/>
+
+
+               
+                <Border
+                BackgroundColor="#E9FFE5"
+                Stroke="#39FF14"
+                StrokeThickness="1"
+                Padding="18">
+
+                    <VerticalStackLayout
+                    Spacing="10">
+
+                        <Label
+                        Text="⭐ Curiosidades"
+                        FontSize="22"
+                        FontAttributes="Bold"
+                        TextColor="#111111"/>
+
+                        <Label
+                        Text="• Seu nome completo é Benjamin Tennyson."
+                        FontSize="16"/>
+
+                        <Label
+                        Text="• Seu principal equipamento é o Omnitrix."
+                        FontSize="16"/>
+
+                        <Label
+                        Text="• Ele pode assumir diferentes formas alienígenas."
+                        FontSize="16"/>
+
+                        <Label
+                        Text="• Gwen é sua prima e Max é seu avô."
+                        FontSize="16"/>
+
+                    </VerticalStackLayout>
+
+                </Border>
+
+            </VerticalStackLayout>
+        </ScrollView>
+
+    </VerticalStackLayout>
+</ContentPage>
