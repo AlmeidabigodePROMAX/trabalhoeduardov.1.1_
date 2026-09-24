@@ -14,7 +14,7 @@
                 Text="BEN 10"
                 FontSize="40"
                 FontAttributes="Bold"
-                TextColor="#39FF14"
+                TextColor="#111111"
                 HorizontalOptions="Center"/>
 
                 <Label
@@ -53,6 +53,13 @@
                         FontSize="16"
                         TextColor="White"
                         HorizontalTextAlignment="Center"/>
+
+                        <Image
+                            Source="ben10.png"
+                            HeightRequest="185"
+                            Aspect="AspectFit"
+                            SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
 
                     </VerticalStackLayout>
 

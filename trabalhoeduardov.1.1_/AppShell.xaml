@@ -12,7 +12,7 @@
             ContentTemplate="{DataTemplate local:MainPage}"
         />
     </FlyoutItem>
-    <FlyoutItem Title="Inicio">
+    <FlyoutItem Title="Ben10">
         <ShellContent
         ContentTemplate="{DataTemplate local:ben10}"
     />
