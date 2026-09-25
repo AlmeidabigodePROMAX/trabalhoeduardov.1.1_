@@ -55,7 +55,7 @@ TextColor="White"
 HorizontalTextAlignment="Center"/>
 
                         <Image
-                     Source="ben10.png"
+                     Source="maxsteel.jpg"
                      HeightRequest="185"
                      Aspect="AspectFit"
                      />

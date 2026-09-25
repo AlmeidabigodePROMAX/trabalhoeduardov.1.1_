@@ -74,6 +74,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\gumbaal.jpg" />
+	  <None Remove="Resources\Images\maxsteel.jpg" />
+	  <None Remove="Resources\Images\steven.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiAsset Include="Resources\Images\ben10.jpg" />
 	</ItemGroup>
 
