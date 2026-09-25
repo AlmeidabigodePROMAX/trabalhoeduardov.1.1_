@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="trabalhoeduardov._1._1_.gumball"
-             Title="gumball">
-  
+             x:Class="trabalhoeduardov._1._1_.maxStell1"
+             Title="maxStell1">
+    
         <ScrollView>
             <VerticalStackLayout
      Spacing="20"
@@ -11,14 +11,14 @@
 
 
                 <Label
-         Text="GUmball"
+         Text="MAx steel"
          FontSize="40"
          FontAttributes="Bold"
          TextColor="#111111"
          HorizontalOptions="Center"/>
 
                 <Label
-         Text="O amzaing mundo do gumBAL"
+         Text="A incrivel energia turbo"
          FontSize="18"
          HorizontalTextAlignment="Center"
          TextColor="#444444"/>
@@ -35,30 +35,30 @@
              Spacing="10">
 
                         <Label
-                 Text="GUmball"
+                 Text="MAx steel"
                  FontSize="24"
                  FontAttributes="Bold"
                  TextColor="White"
                  HorizontalOptions="Center"/>
 
                         <Label
-                 Text="Amizade"
+                 Text="A Energia turbo"
                  FontSize="20"
                  FontAttributes="Bold"
                  TextColor="#00F0FF"
                  HorizontalOptions="Center"/>
 
-                        <Label
-                 
-                 FontSize="16"
-                 TextColor="White"
-                 HorizontalTextAlignment="Center"/>
+                    <Label
+Text="Max Steel canaliza a poderosa Turbo-Energia para gerar força, velocidade e agilidade sobre-humanas. Ele utiliza diferentes trajes tecnológicos avançados para se adaptar a qualquer combate, como voo, força bruta ou velocidade. Além disso, conta com a conexão simbiótica com o Steel, permitindo-lhe criar armas, escudos e armaduras instantaneamente."
+FontSize="16"
+TextColor="White"
+HorizontalTextAlignment="Center"/>
 
                         <Image
                      Source="ben10.png"
                      HeightRequest="185"
                      Aspect="AspectFit"
-                     SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+                     />
 
 
                     </VerticalStackLayout>
@@ -74,13 +74,13 @@
          TextColor="#111111"/>
 
                 <Label
-         Text="Gumball Tristopher Watterson (nascido Zach) é um gato azul de 12 anos e o protagonista de O Incrível Mundo de Gumball. Ele vive na caótica cidade de Elmore com sua família excêntrica e seu irmão adotivo/melhor amigo, Darwin. Conhecido por sua personalidade sarcástica, otimista e propensa a se meter em confusões absurdas, Gumball navega pelas dificuldades da pré-adolescência enquanto frequenta a Escola de Elmore."
+         Text="Max Steel é a identidade heroica de Josh McGrath (na versão clássica original dos anos 2000) ou Maxwell McGrath (na versão reformulada de 2013). A história de origem gira em torno de um jovem adolescente cuja vida muda drasticamente após um acidente de laboratório (ou exposição a energias misteriosas)."
          FontSize="17"
          TextColor="#444444"
          LineBreakMode="WordWrap"/>
 
           
-
+                
 
 
                 <Border
@@ -99,22 +99,22 @@
                  TextColor="#ffffff"/>
 
                         <Label
-                 Text="• O nome real de batismo do Gumball é Zach. Ele mudou legalmente seu nome para Gumball após descobrir que sua personalidade mudava drasticamente (ficando pretensioso e irritante) sempre que era chamado pelo nome de nascimento."
+                 Text="•O desenho animado e os bonecos de Max Steel se tornaram um fenômeno cultural enorme no Brasil durante os anos 2000 e início de 2010, sendo exibidos na TV aberta (como na Rede Globo) e marcando a infância de uma geração inteira."
                  FontSize="16"
                             TextColor="#ffffff"/>
 
                         <Label
-                 Text="• O criador da série, Ben Bocquelet, criou o visual do Gumball baseado em um personagem que ele desenvolveu para um comercial de TV que acabou sendo rejeitado por clientes"
+                 Text="•Em 2016, a franquia ganhou uma adaptação cinematográfica em live-action (com atores reais), estrelada pelo ator Ben Winchell no papel principal, trazendo uma abordagem mais cinematográfica para a origem do herói."
 TextColor="#ffffff"
                  FontSize="16"/>
 
                         <Label
-                 Text="•  Apesar de parecer um gato azul comum, os criadores da série já revelaram que o Gumball é, na verdade, uma mistura de gato azul com um coelho, herdando os genes de sua mãe (Nicole, uma gata) e de seu pai (Ricardo, um coelho)."
+                 Text="• A franquia foi criada em 1999 pela gigante de brinquedos Mattel em parceria com a Foundation Imaging, originalmente concebida para impulsionar a venda de bonecos de ação com foco em esportes radicais e espionagem."
                  FontSize="16"
                             TextColor="#ffffff"/>
 
                         <Label
-                 Text="•  Por ser uma série muito longa, o dublador original do Gumball nos Estados Unidos precisou ser trocado várias vezes ao longo das temporadas porque a voz dos atores mirins engrossava conforme eles entravam na puberdade."
+                 Text="A série passou por um  completo em 2013. O visual loiro e o tom de agência secreta realista dos anos 2000 deram lugar a um Max de cabelos escuros, com um estilo de animação mais próximo dos animes e focado em ficção científica espacial com o companheiro alienígena Steel."
                             TextColor="#ffffff"/>
 
                     </VerticalStackLayout>
@@ -124,5 +124,5 @@ TextColor="#ffffff"
             </VerticalStackLayout>
         </ScrollView>
 
-    
+ 
 </ContentPage>

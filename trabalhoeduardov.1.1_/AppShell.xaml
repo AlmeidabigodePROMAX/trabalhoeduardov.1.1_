@@ -27,9 +27,9 @@
         ContentTemplate="{DataTemplate local:gumball}"
     />
     </FlyoutItem>
-    <FlyoutItem Title="Inicio">
+    <FlyoutItem Title="Max">
         <ShellContent
-        ContentTemplate="{DataTemplate local:MainPage}"
+        ContentTemplate="{DataTemplate local:maxStell1}"
     />
     </FlyoutItem>
 

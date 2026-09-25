@@ -60,6 +60,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Remove="gumbal.xaml.cs" />
 	  <Compile Remove="Steven.xaml.cs" />
 	</ItemGroup>
 
@@ -68,6 +69,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Remove="gumbal.xaml" />
 	  <MauiXaml Remove="Steven.xaml" />
 	</ItemGroup>
 
@@ -84,7 +86,7 @@
 	  <MauiXaml Update="ben10.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="gumbal.xaml">
+	  <MauiXaml Update="maxStell1.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="stevenn.xaml">

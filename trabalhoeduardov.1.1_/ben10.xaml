@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="trabalhoeduardov._1._1_.ben10"
              Title="ben10">
-    <VerticalStackLayout>
+   
         <ScrollView>
             <VerticalStackLayout
          Spacing="20"
@@ -35,7 +35,7 @@
                  Spacing="10">
 
                         <Label
-                     Text="👽 BENJAMIN TENNYSON"
+                     Text="BENJAMIN TENNYSON"
                      FontSize="24"
                      FontAttributes="Bold"
                      TextColor="White"
@@ -125,6 +125,6 @@
             </VerticalStackLayout>
         </ScrollView>
 
-    </VerticalStackLayout>
+    
 
 </ContentPage>

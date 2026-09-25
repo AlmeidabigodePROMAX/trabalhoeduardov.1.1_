@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="trabalhoeduardov._1._1_.stevenn"
              Title="stevenn">
-    <VerticalStackLayout>
+   
         <ScrollView>
             <VerticalStackLayout
      Spacing="20"
@@ -79,12 +79,7 @@
          TextColor="#444444"
          LineBreakMode="WordWrap"/>
 
-                <Label
-         Text="A partir daí, Ben passa a viver diversas aventuras, enfrentando vilões e usando os poderes dos alienígenas do Omnitrix para proteger outras pessoas. Durante suas aventuras, ele aprende mais sobre responsabilidade, coragem e como usar seus poderes."
-         FontSize="17"
-         TextColor="#444444"
-         LineBreakMode="WordWrap"/>
-
+      
 
 
                 <Border
@@ -129,5 +124,5 @@ TextColor="#ffffff"
             </VerticalStackLayout>
         </ScrollView>
 
-    </VerticalStackLayout>
+   
 </ContentPage>
