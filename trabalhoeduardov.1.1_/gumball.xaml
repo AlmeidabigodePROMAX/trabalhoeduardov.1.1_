@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="trabalhoeduardov._1._1_.gumbal"
-             Title="gumbal">
+             x:Class="trabalhoeduardov._1._1_.gumball"
+             Title="gumball">
     <VerticalStackLayout>
         <ScrollView>
             <VerticalStackLayout
@@ -27,7 +27,7 @@
 
                 <Border
          BackgroundColor="#fffff"
-         Stroke="##00F0FF"
+         Stroke="#00F0FF"
          StrokeThickness="2"
          Padding="20">
 
@@ -35,21 +35,21 @@
              Spacing="10">
 
                         <Label
-                 Text="Steven UNiverso"
+                 Text="GUmball"
                  FontSize="24"
                  FontAttributes="Bold"
                  TextColor="White"
                  HorizontalOptions="Center"/>
 
                         <Label
-                 Text="Qartzo rosa"
+                 Text="Amizade"
                  FontSize="20"
                  FontAttributes="Bold"
-                 TextColor="#FF1D8D"
+                 TextColor="#00F0FF"
                  HorizontalOptions="Center"/>
 
                         <Label
-                 Text="O Steven Universo possui os poderes da Diamante Rosa, que se manifestam através de habilidades defensivas e de cura, como criar um escudo indestrutível, uma bolha protetora e consertar ferimentos ou Gems rachadas usando suas lágrimas e saliva."
+                 
                  FontSize="16"
                  TextColor="White"
                  HorizontalTextAlignment="Center"/>
@@ -74,7 +74,7 @@
          TextColor="#111111"/>
 
                 <Label
-         Text="Steven Quartz Universo é o protagonista metade humano e metade Gem da série. Filho de Greg Universo e Rose Quartz, ele foi criado em Beach City pelas Crystal Gems (Garnet, Amethyst e Pearl), aprendendo a dominar sua pedra mágica enquanto protegia a Terra e, mais tarde, unificava o império das Diamantes."
+         Text="Gumball Tristopher Watterson (nascido Zach) é um gato azul de 12 anos e o protagonista de O Incrível Mundo de Gumball. Ele vive na caótica cidade de Elmore com sua família excêntrica e seu irmão adotivo/melhor amigo, Darwin. Conhecido por sua personalidade sarcástica, otimista e propensa a se meter em confusões absurdas, Gumball navega pelas dificuldades da pré-adolescência enquanto frequenta a Escola de Elmore."
          FontSize="17"
          TextColor="#444444"
          LineBreakMode="WordWrap"/>
@@ -89,7 +89,7 @@
 
                 <Border
          BackgroundColor="#111111"
-         Stroke="#FF1D8D"
+         Stroke="#00F0FF"
          StrokeThickness="1"
          Padding="18">
 
@@ -103,23 +103,22 @@
                  TextColor="#ffffff"/>
 
                         <Label
-                 Text="• A criadora da série, Rebecca Sugar, baseou a personalidade, as roupas e o visual do Steven diretamente no seu  irmão mais novo da vida real, chamado Steven Sugar."
+                 Text="• O nome real de batismo do Gumball é Zach. Ele mudou legalmente seu nome para Gumball após descobrir que sua personalidade mudava drasticamente (ficando pretensioso e irritante) sempre que era chamado pelo nome de nascimento."
                  FontSize="16"
                             TextColor="#ffffff"/>
 
                         <Label
-                 Text="• Steven é o único híbrido conhecido no universo da série, sendo o primeiro ser metade humano e metade Gem a existir.."
+                 Text="• O criador da série, Ben Bocquelet, criou o visual do Gumball baseado em um personagem que ele desenvolveu para um comercial de TV que acabou sendo rejeitado por clientes"
 TextColor="#ffffff"
                  FontSize="16"/>
 
                         <Label
-                 Text="• No começo da série, Steven tem 13 anos, mas sua aparência física não muda por causa de seus poderes mágicos, que fazem seu corpo refletir apenas o quanto ele se sente mentalmente maduro."
+                 Text="•  Apesar de parecer um gato azul comum, os criadores da série já revelaram que o Gumball é, na verdade, uma mistura de gato azul com um coelho, herdando os genes de sua mãe (Nicole, uma gata) e de seu pai (Ricardo, um coelho)."
                  FontSize="16"
                             TextColor="#ffffff"/>
 
                         <Label
-                 Text="• Quando Steven se funde com a Connie para formar a Stevonnie, o desenho fez história na TV ao criar um dos primeiros personagens abertamente não-binários e intersexo em animações infantis"
-                 FontSize="16"
+                 Text="•  Por ser uma série muito longa, o dublador original do Gumball nos Estados Unidos precisou ser trocado várias vezes ao longo das temporadas porque a voz dos atores mirins engrossava conforme eles entravam na puberdade."
                             TextColor="#ffffff"/>
 
                     </VerticalStackLayout>

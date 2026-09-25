@@ -22,9 +22,9 @@
         ContentTemplate="{DataTemplate local:stevenn}"
     />
     </FlyoutItem>
-    <FlyoutItem Title="Inicio">
+    <FlyoutItem Title="Gumball">
         <ShellContent
-        ContentTemplate="{DataTemplate local:gumbal}"
+        ContentTemplate="{DataTemplate local:gumball}"
     />
     </FlyoutItem>
     <FlyoutItem Title="Inicio">
