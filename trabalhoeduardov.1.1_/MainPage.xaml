@@ -41,7 +41,7 @@
                 Spacing="20">
 
                 <Label
-                    Text="Bem-vindo! 👋"
+                    Text="Bem-vindo!"
                     FontSize="28"
                     FontAttributes="Bold"
                     TextColor="#202040"/>
@@ -63,7 +63,7 @@
                         Spacing="12">
 
                         <Label
-                            Text="📚 Sobre o APP"
+                            Text="Sobre o APP"
                             FontSize="22"
                             FontAttributes="Bold"
                             TextColor="#202040"/>
@@ -89,7 +89,7 @@
                         Spacing="10">
 
                         <Label
-                            Text="☰  Explore os personagens"
+                            Text="  Explore os personagens"
                             TextColor="White"
                             FontSize="22"
                             FontAttributes="Bold"/>
@@ -106,7 +106,7 @@
 
 
                 <Label
-                    Text="⭐ Escolha um personagem e comece a explorar!"
+                    Text="Escolha um personagem e comece a explorar!"
                     FontSize="17"
                     FontAttributes="Bold"
                     TextColor="#202040"

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="trabalhoeduardov._1._1_.ben10"
-             Title="ben10">
+             x:Class="trabalhoeduardov._1._1_.Steven">
     <VerticalStackLayout>
         <ScrollView>
             <VerticalStackLayout
@@ -11,14 +10,14 @@
 
 
                 <Label
-             Text="BEN 10"
+             Text="Steven Universo"
              FontSize="40"
              FontAttributes="Bold"
              TextColor="#111111"
              HorizontalOptions="Center"/>
 
                 <Label
-             Text="O herói que pode se transformar em vários alienígenas!"
+             Text="O herói do Poder da amizade"
              FontSize="18"
              HorizontalTextAlignment="Center"
              TextColor="#444444"/>
@@ -35,21 +34,21 @@
                  Spacing="10">
 
                         <Label
-                     Text="👽 BENJAMIN TENNYSON"
+                     Text="Steven UNiverso"
                      FontSize="24"
                      FontAttributes="Bold"
                      TextColor="White"
                      HorizontalOptions="Center"/>
 
                         <Label
-                     Text="O Omnitrix"
+                     Text="Qartzo rosa"
                      FontSize="20"
                      FontAttributes="Bold"
                      TextColor="#39FF14"
                      HorizontalOptions="Center"/>
 
                         <Label
-                     Text="Um dispositivo alienígena que permite ao Ben assumir diferentes formas extraterrestres."
+                     Text="O Steven Universo possui os poderes da Diamante Rosa, que se manifestam através de habilidades defensivas e de cura, como criar um escudo indestrutível, uma bolha protetora e consertar ferimentos ou Gems rachadas usando suas lágrimas e saliva."
                      FontSize="16"
                      TextColor="White"
                      HorizontalTextAlignment="Center"/>
@@ -97,7 +96,7 @@
                  Spacing="10">
 
                         <Label
-                     Text="⭐ Curiosidades"
+                     Text=" Curiosidades"
                      FontSize="22"
                      FontAttributes="Bold"
                      TextColor="#111111"/>
@@ -126,5 +125,4 @@
         </ScrollView>
 
     </VerticalStackLayout>
-
-</ContentPage>
+</ContentView>
