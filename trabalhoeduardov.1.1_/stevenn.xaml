@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="trabalhoeduardov._1._1_.stevenn"
+             Title="stevenn">
+    <VerticalStackLayout>
+        <ScrollView>
+            <VerticalStackLayout
+     Spacing="20"
+     Padding="20">
+
+
+                <Label
+         Text="Steven Universo"
+         FontSize="40"
+         FontAttributes="Bold"
+         TextColor="#111111"
+         HorizontalOptions="Center"/>
+
+                <Label
+         Text="O herói do Poder da amizade"
+         FontSize="18"
+         HorizontalTextAlignment="Center"
+         TextColor="#444444"/>
+
+
+
+                <Border
+         BackgroundColor="#111111"
+         Stroke="#FF1D8D"
+         StrokeThickness="2"
+         Padding="20">
+
+                    <VerticalStackLayout
+             Spacing="10">
+
+                        <Label
+                 Text="Steven UNiverso"
+                 FontSize="24"
+                 FontAttributes="Bold"
+                 TextColor="White"
+                 HorizontalOptions="Center"/>
+
+                        <Label
+                 Text="Qartzo rosa"
+                 FontSize="20"
+                 FontAttributes="Bold"
+                 TextColor="#FF1D8D"
+                 HorizontalOptions="Center"/>
+
+                        <Label
+                 Text="O Steven Universo possui os poderes da Diamante Rosa, que se manifestam através de habilidades defensivas e de cura, como criar um escudo indestrutível, uma bolha protetora e consertar ferimentos ou Gems rachadas usando suas lágrimas e saliva."
+                 FontSize="16"
+                 TextColor="White"
+                 HorizontalTextAlignment="Center"/>
+
+                        <Image
+                     Source="ben10.png"
+                     HeightRequest="185"
+                     Aspect="AspectFit"
+                     SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+
+                    </VerticalStackLayout>
+
+                </Border>
+
+
+
+                <Label
+         Text="📖 Biografia"
+         FontSize="28"
+         FontAttributes="Bold"
+         TextColor="#111111"/>
+
+                <Label
+         Text="Steven Quartz Universo é o protagonista metade humano e metade Gem da série. Filho de Greg Universo e Rose Quartz, ele foi criado em Beach City pelas Crystal Gems (Garnet, Amethyst e Pearl), aprendendo a dominar sua pedra mágica enquanto protegia a Terra e, mais tarde, unificava o império das Diamantes."
+         FontSize="17"
+         TextColor="#444444"
+         LineBreakMode="WordWrap"/>
+
+                <Label
+         Text="A partir daí, Ben passa a viver diversas aventuras, enfrentando vilões e usando os poderes dos alienígenas do Omnitrix para proteger outras pessoas. Durante suas aventuras, ele aprende mais sobre responsabilidade, coragem e como usar seus poderes."
+         FontSize="17"
+         TextColor="#444444"
+         LineBreakMode="WordWrap"/>
+
+
+
+                <Border
+         BackgroundColor="#111111"
+         Stroke="#FF1D8D"
+         StrokeThickness="1"
+         Padding="18">
+
+                    <VerticalStackLayout
+             Spacing="10">
+
+                        <Label
+                 Text=" Curiosidades"
+                 FontSize="22"
+                 FontAttributes="Bold"
+                 TextColor="#ffffff"/>
+
+                        <Label
+                 Text="• A criadora da série, Rebecca Sugar, baseou a personalidade, as roupas e o visual do Steven diretamente no seu  irmão mais novo da vida real, chamado Steven Sugar."
+                 FontSize="16"
+                            TextColor="#ffffff"/>
+
+                        <Label
+                 Text="• Steven é o único híbrido conhecido no universo da série, sendo o primeiro ser metade humano e metade Gem a existir.."
+TextColor="#ffffff"
+                 FontSize="16"/>
+
+                        <Label
+                 Text="• No começo da série, Steven tem 13 anos, mas sua aparência física não muda por causa de seus poderes mágicos, que fazem seu corpo refletir apenas o quanto ele se sente mentalmente maduro."
+                 FontSize="16"
+                            TextColor="#ffffff"/>
+
+                        <Label
+                 Text="• Quando Steven se funde com a Connie para formar a Stevonnie, o desenho fez história na TV ao criar um dos primeiros personagens abertamente não-binários e intersexo em animações infantis"
+                 FontSize="16"
+                            TextColor="#ffffff"/>
+
+                    </VerticalStackLayout>
+
+                </Border>
+
+            </VerticalStackLayout>
+        </ScrollView>
+
+    </VerticalStackLayout>
+</ContentPage>

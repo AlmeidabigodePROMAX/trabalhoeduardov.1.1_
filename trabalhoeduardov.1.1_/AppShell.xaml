@@ -19,12 +19,12 @@
     </FlyoutItem>
     <FlyoutItem Title="Steven">
         <ShellContent
-        ContentTemplate="{DataTemplate local:ben10}"
+        ContentTemplate="{DataTemplate local:stevenn}"
     />
     </FlyoutItem>
     <FlyoutItem Title="Inicio">
         <ShellContent
-        ContentTemplate="{DataTemplate local:MainPage}"
+        ContentTemplate="{DataTemplate local:gumbal}"
     />
     </FlyoutItem>
     <FlyoutItem Title="Inicio">
